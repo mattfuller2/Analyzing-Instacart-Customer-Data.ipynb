@@ -1,4 +1,4 @@
-# 🛒 Instacart Customer Behavior Analysis
+# 🛒 Sprint 2: Instacart Customer Behavior Analysis
 
 ## 📁 Project Overview
 
